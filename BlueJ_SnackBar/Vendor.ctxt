@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Vendor
+comment0.text=\n\ \ \ This\ class\ implements\ a\ vendor\ that\ sells\ one\ kind\ of\ items.\n\ \ \ A\ vendor\ carries\ out\ sales\ transactions.\n
+comment1.params=newPrice\ newStock
+comment1.target=Vendor(int,\ int)
+comment2.params=stockToSet
+comment2.target=void\ setStock(int)
+comment3.params=
+comment3.target=int\ getStock()
+comment4.params=cents
+comment4.target=void\ addMoney(int)
+comment5.params=
+comment5.target=int\ getDeposit()
+comment6.params=
+comment6.target=boolean\ makeSale()
+comment7.params=
+comment7.target=int\ getChange()
+comment8.params=
+comment8.target=double\ getTotalSales()
+numComments=9
